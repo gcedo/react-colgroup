@@ -1,3 +1,3 @@
-import Colgroup from './Colgroup.jsx';
+import Colgroup from './Colgroup';
 
 export default Colgroup;
