@@ -7,7 +7,7 @@ In the following example, we create a table where the columns will be respective
 
 ```javascript
 import React from 'react';
-import Colgroup from '../src/Colgroup.jsx';
+import Colgroup from 'react-colgroup';
 
 const table = (
     <table>
