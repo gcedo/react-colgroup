@@ -25,3 +25,6 @@ const table = (
 
 React.render(table, document.getElementById('colgroup-example'));
 ```
+
+## License
+MIT
